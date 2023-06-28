@@ -19,22 +19,22 @@ param set-default CA_ROTOR_COUNT 4
 param set-default CA_ROTOR0_PX 0.1515
 param set-default CA_ROTOR0_PY 0.245
 param set-default CA_ROTOR0_KM 0.06
-param set-default CA_ROTOR0_CT 0.000584
+# param set-default CA_ROTOR0_CT 0.000584
 
 param set-default CA_ROTOR1_PX -0.1515
 param set-default CA_ROTOR1_PY -0.1875
 param set-default CA_ROTOR1_KM 0.06
-param set-default CA_ROTOR1_CT 0.000584
+# param set-default CA_ROTOR1_CT 0.000584
 
 param set-default CA_ROTOR2_PX 0.1515
 param set-default CA_ROTOR2_PY -0.245
 param set-default CA_ROTOR2_KM -0.06
-param set-default CA_ROTOR2_CT 0.000584
+# param set-default CA_ROTOR2_CT 0.000584
 
 param set-default CA_ROTOR3_PX -0.1515
 param set-default CA_ROTOR3_PY 0.1875
 param set-default CA_ROTOR3_KM -0.06
-param set-default CA_ROTOR3_CT 0.000584
+# param set-default CA_ROTOR3_CT 0.000584
 
 param set-default PWM_MAIN_FUNC1 101
 param set-default PWM_MAIN_FUNC2 102
