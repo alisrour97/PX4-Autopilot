@@ -106,6 +106,12 @@ if(gazebo_FOUND)
 		iris_delta_p1
 		iris_delta_p2
 		iris_delta_p3
+		iris_delta_p4
+		iris_delta_p5
+		iris_delta_p6
+		iris_delta_p7
+		iris_delta_p8
+		iris_delta_p9
 	)
 
 	set(worlds

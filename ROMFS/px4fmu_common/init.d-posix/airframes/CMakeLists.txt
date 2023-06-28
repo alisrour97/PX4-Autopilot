@@ -69,6 +69,12 @@ px4_add_romfs_files(
 	1080_gazebo-classic_iris_delta_p1
 	1081_gazebo-classic_iris_delta_p2
 	1082_gazebo-classic_iris_delta_p3
+	1083_gazebo-classic_iris_delta_p4
+	1084_gazebo-classic_iris_delta_p5
+	1085_gazebo-classic_iris_delta_p6
+	1086_gazebo-classic_iris_delta_p7
+	1087_gazebo-classic_iris_delta_p8
+	1088_gazebo-classic_iris_delta_p9
 
 	2507_gazebo-classic_cloudship
 
