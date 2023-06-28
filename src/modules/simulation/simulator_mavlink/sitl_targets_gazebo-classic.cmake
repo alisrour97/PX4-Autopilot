@@ -104,6 +104,8 @@ if(gazebo_FOUND)
 		uuv_hippocampus
 		### Custom ###
 		iris_delta_p1
+		iris_delta_p2
+		iris_delta_p3
 	)
 
 	set(worlds

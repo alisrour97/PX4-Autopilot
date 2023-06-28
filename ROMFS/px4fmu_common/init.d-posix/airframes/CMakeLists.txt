@@ -67,6 +67,8 @@ px4_add_romfs_files(
 	1070_gazebo-classic_boat
 	### Custom ###
 	1080_gazebo-classic_iris_delta_p1
+	1081_gazebo-classic_iris_delta_p2
+	1082_gazebo-classic_iris_delta_p3
 
 	2507_gazebo-classic_cloudship
 
