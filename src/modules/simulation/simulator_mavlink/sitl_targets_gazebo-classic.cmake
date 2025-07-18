@@ -112,6 +112,8 @@ if(gazebo_FOUND)
 		iris_delta_p7
 		iris_delta_p8
 		iris_delta_p9
+		jet_ski
+		inspear
 	)
 
 	set(worlds
